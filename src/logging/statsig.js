@@ -1,0 +1,1 @@
+console.log("Statsig logging initialized");
